@@ -3,5 +3,7 @@ public interface BankAccount{
     // check balance
     // add money
     //check rol
+Boolean withrawMoney(int money);
+
 
 }
